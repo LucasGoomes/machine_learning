@@ -25,10 +25,9 @@ A ideia inicial é armazenar meus estudos e algoritmos que envolvam Machine Lear
 
 Segue abaixo as linguagens e bibliotecas até então abordadas:
 
-* ![image]({<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />})
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* <img src="{https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue}" />
+* <img src="{https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white}" />
+* <img src="{https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white}" />
+* <img src="{https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white}" />
+* <img src="{https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white}" />
+* <img src="{https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white}" />
