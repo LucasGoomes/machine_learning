@@ -25,7 +25,7 @@ A ideia inicial é armazenar meus estudos e algoritmos que envolvam Machine Lear
 
 Segue abaixo as linguagens e bibliotecas até então abordadas:
 
-* [![Python][<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />]][https://www.python.org/]
+* ![image]({<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />})
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
 * [![Svelte][Svelte.dev]][Svelte-url]
