@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.jpg" alt="Logo" width="800" height="300">
+    <img src="images/logo.jpg" alt="Logo" width="800" height="200">
   </a>
 
   <h3 align="center">Machine Learning</h3>
@@ -21,7 +21,7 @@ A ideia inicial é armazenar meus estudos e algoritmos que envolvam Machine Lear
 
 
 
-### Construindo com
+## Construindo com
 
 Segue abaixo as linguagens e bibliotecas até então abordadas:
 
