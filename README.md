@@ -20,6 +20,14 @@
 A ideia inicial é armazenar meus estudos e algoritmos que envolvam Machine Learning, sejam eles desenvolvidos em pequenos projetos para fixar o conteúdo ou desenvolvidos durante cursos do assunto. Logo, é possível que algumas pastas ou algoritmos estajam "soltos" dentro do repositório, não seguindo nenhuma estrutura padrão de projetos.
 
 
+## Algoritmos implementados
+| Algoritmo           | 
+| :---                |
+| Linear Regression   |
+| Random Forest       |
+| Decision Tree       |
+| Naive Bayes         |
+
 
 ## Construindo com
 
