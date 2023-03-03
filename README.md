@@ -23,12 +23,12 @@ A ideia inicial é armazenar meus estudos e algoritmos que envolvam Machine Lear
 ## O que foi desenvolvido até agora
 | Nome                |
 | :---:               |  
-| Linear Regression   |
-| Random Forest       |
-| Decision Tree       |
-| Naive Bayes         |
-| Cross Validation         |
-| Classificador binário de câncer de mama        |
+| [Linear Regression](https://github.com/LucasGoomes/machine_learning/tree/main/linear_regression)   |
+| [Random Forest](https://github.com/LucasGoomes/machine_learning/tree/main/random_forest)       |
+| [Decision Tree](https://github.com/LucasGoomes/machine_learning/tree/main/decision_tree)       |
+| [Naive Bayes](https://github.com/LucasGoomes/machine_learning/tree/main/naive_bayes)         |
+| [Cross Validation](https://github.com/LucasGoomes/machine_learning/tree/main/cross_validation)         |
+| [Classificador binário de câncer de mama](https://github.com/LucasGoomes/machine_learning/tree/main/breast_cancer_classification)        |
 
 
 ## Ferramentas
