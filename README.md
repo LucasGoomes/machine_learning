@@ -27,6 +27,7 @@ A ideia inicial é armazenar meus estudos e algoritmos que envolvam Machine Lear
 | Random Forest       |
 | Decision Tree       |
 | Naive Bayes         |
+| Cross Validation         |
 | Classificador binário de câncer de mama        |
 
 
