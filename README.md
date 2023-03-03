@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="">
+  <a href="#">
     <img src="images/logo.jpg" alt="Logo" width="800" height="300">
   </a>
 
