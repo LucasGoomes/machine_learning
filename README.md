@@ -21,11 +21,11 @@ A ideia inicial é armazenar meus estudos e algoritmos que envolvam Machine Lear
 
 
 ## Algoritmos implementados (até agora)
-| :---:               |
+|                     |
 | Linear Regression   | 
 | Random Forest       | 
 | Decision Tree       | 
-| Naive Bayes         | |
+| Naive Bayes         |
 
 
 ## Construindo com
