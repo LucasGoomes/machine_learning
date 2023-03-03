@@ -29,6 +29,8 @@ A ideia inicial é armazenar meus estudos e algoritmos que envolvam Machine Lear
 | [Naive Bayes](https://github.com/LucasGoomes/machine_learning/tree/main/naive_bayes)         |
 | [Cross Validation](https://github.com/LucasGoomes/machine_learning/tree/main/cross_validation)         |
 | [Classificador binário de câncer de mama](https://github.com/LucasGoomes/machine_learning/tree/main/breast_cancer_classification)        |
+| [Classificador de gatos e cachorros em imagens usando redes neurais convolucionais]()        |
+| [Classificador de digitos escritos a mão usando redes neurais convolucionais]()        |
 
 
 ## Ferramentas
@@ -39,5 +41,6 @@ A ideia inicial é armazenar meus estudos e algoritmos que envolvam Machine Lear
 * <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
 * <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" />
 * <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+* <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" />
 * <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 * <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
