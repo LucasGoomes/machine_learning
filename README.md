@@ -29,8 +29,8 @@ A ideia inicial é armazenar meus estudos e algoritmos que envolvam Machine Lear
 | [Naive Bayes](https://github.com/LucasGoomes/machine_learning/tree/main/naive_bayes)         |
 | [Cross Validation](https://github.com/LucasGoomes/machine_learning/tree/main/cross_validation)         |
 | [Classificador binário de câncer de mama](https://github.com/LucasGoomes/machine_learning/tree/main/breast_cancer_classification)        |
-| [Classificador de digitos escritos a mão usando redes neurais convolucionais](https://github.com/LucasGoomes/machine_learning/tree/main/handwritten_digits_classification)        |
 | [Classificador do Homer e do Bart usando redes neurais convolucionais](https://github.com/LucasGoomes/machine_learning/tree/main/homer_bart_classifier)        |
+| [Classificador de digitos escritos a mão usando redes neurais convolucionais](https://github.com/LucasGoomes/machine_learning/tree/main/handwritten_digits_classification)        |
 | [Classificador de gatos e de cachorros em imagens usando redes neurais convolucionais](https://github.com/LucasGoomes/machine_learning/tree/main/cat_dog_classification)        |
 
 
